@@ -1,10 +1,10 @@
 # anti idle v1.0 by style
-# style on #ninja at Quakenet IRC Network
-# email: the@ninja.re
+# style on #ninja at Libera IRC Network
+# email: fatal@error.rs
 #
 # based on the tcl made by JCFreak^
 # adapted to work with eggdrop 1.8.4 in 2021 on any network :D
-# credits: style, BLaCkShaDoW & JCFreak^
+# credits: style & JCFreak^
 #
 # IMPORTANT! If it doesn't work after you restarted the eggdrop, do a rehash.
 
@@ -33,3 +33,4 @@ proc aidle.a {} {
 }
 
 putlog "\[AntiIdle\] ${aidle.v} loaded!"
+
